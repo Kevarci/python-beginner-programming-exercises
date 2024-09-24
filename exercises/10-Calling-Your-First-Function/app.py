@@ -5,7 +5,6 @@ def is_odd(my_number):
 def my_main_code(number):
 	return is_odd + number
 
-
 print(is_odd(45345))
 
     
